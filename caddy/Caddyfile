@@ -1,4 +1,5 @@
-localhost {
+siliconsavannah.io {
+	email hello@siliconsavannah.io
     root * /srv
     file_server
 }
