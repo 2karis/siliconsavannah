@@ -1,8 +1,8 @@
-# siliconsavannah.io {
-#     root * /srv
-#     file_server
-# }
-localhost:80 {
+siliconsavannah.io {
     root * /srv
     file_server
 }
+# localhost:80 {
+#     root * /srv
+#     file_server
+# }
